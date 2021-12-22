@@ -10,6 +10,7 @@ nav{
 }
 
 .link-div ul{
+    margin-top: 10px;
     margin-right: 40px;
     display: flex;
     margin-left: -40px;
